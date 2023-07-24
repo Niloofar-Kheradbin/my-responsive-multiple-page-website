@@ -55,8 +55,7 @@ img {
   border: 1px solid var(--back-color);
 }
 .container-box {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin: 50px;
 }
 .img-fluid {
   max-width: 250px;
