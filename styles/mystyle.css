@@ -133,3 +133,9 @@ button:hover {
 .email-link:hover {
   text-decoration: underline;
 }
+@media (max-width: 414px) {
+  h1 {
+    font-size: 30px !important;
+    font-weight: bold !important;
+  }
+}
